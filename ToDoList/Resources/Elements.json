@@ -1,0 +1,49 @@
+[{
+        "id": 0,
+        "description": "Чип",
+        "isDeleted": false,
+        "isArcheveted": false
+    },
+    {
+        "id": 1,
+        "description": "Дейл",
+        "isDeleted": false,
+        "isArcheveted": false
+    },
+    {
+        "id": 2,
+        "description": "Плакаты",
+        "isDeleted": false,
+        "isArcheveted": false
+    },
+    {
+        "id": 4,
+        "description": "Калич",
+        "isDeleted": false,
+        "isArcheveted": false
+    },
+    {
+        "id": 5,
+        "description": "Концерт",
+        "isDeleted": false,
+        "isArcheveted": false
+    },
+    {
+        "id": 6,
+        "description": "Макбук",
+        "isDeleted": false,
+        "isArcheveted": false
+    },
+    {
+        "id": 7,
+        "description": "Диплом",
+        "isDeleted": false,
+        "isArcheveted": false
+    },
+    {
+        "id": 8,
+        "description": "Библиотека",
+        "isDeleted": false,
+        "isArcheveted": false
+    }
+]
